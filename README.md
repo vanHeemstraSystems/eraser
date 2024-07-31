@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+eraser
+# Eraser
 
-Based on "ABC" at https://www.abc.com/
+> All-in-one markdown editor, collaborative canvas, and diagram-as-code builder
+
+Based on "Eraser" at https://eraser.io
 
 ## 100 - Introduction
 
